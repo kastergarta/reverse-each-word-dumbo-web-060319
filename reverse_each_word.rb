@@ -13,6 +13,6 @@ end
 #   array.collect do |i|
 #     i.reverse
 #   end
-#     new_string = array.join(" ")
+#     new_string = array.join
 #     return new_string
 # end  
